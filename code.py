@@ -13,7 +13,7 @@ import google.generativeai as genai
 NUCLEI_PATH = "nuclei"
 TEMPLATES_DIR = os.path.expanduser("~/nuclei-templates")
 OUTPUT_DIR = "nuclei_scans"
-GEMINI_API_KEY = "AIzaSyCWIdEO_7gO3yPq7ameaGNpq08HOGZM940"  # Replace with yours
+GEMINI_API_KEY = "gemini_api_key_here"  # Replace with yours
 REPORT_PATH = os.path.expanduser("~/Desktop/gemini_report")
 # -------------------
 
